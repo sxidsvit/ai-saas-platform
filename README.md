@@ -1,5 +1,7 @@
 # SaaS AI Platform with Next.js 13, Tailwind, Prisma, PlanetScale, OpenAI, Replicate, Node.js 18 & Stripe 
 
+[site](https://ai-saas-platforms.vercel.app/)
+
 
 ### .env file
 
